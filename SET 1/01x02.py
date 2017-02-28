@@ -1,4 +1,5 @@
 # 2. Fixed XOR - http://cryptopals.com/sets/1/challenges/2
+
 # Write a function that takes two equal-length buffers and produces their XOR combination.
 
 import binascii
